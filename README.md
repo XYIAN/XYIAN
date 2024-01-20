@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td align="center" style="width:25%;"><a href=https://www.linkedin.com/in/kxdilbeck/><img src=https://media.licdn.com/dms/image/C5603AQE80kHro8-3dA/profile-displayphoto-shrink_100_100/0/1636953516875?e=1705536000&v=beta&t=V7DotdQ6n1Ym1_HnoSnrnDMfoNzfHSAhFNEx6dTX0RE width="350px;" alt="Kyle Dilbeck"/><br /><sub><b>Kyle Dilbeck</b></sub></a><br /><a href=https://github.com/XYIAN/yamaha-extensionPack/issues title="Developer">⚡</a></td>
+    <td align="center" style="width:25%;"><a href="https://www.linkedin.com/in/kxdilbeck/"><img src="https://media.licdn.com/dms/image/C5603AQE80kHro8-3dA/profile-displayphoto-shrink_400_400/0/1636953516875?e=1710979200&v=beta&t=Vto0jWIGhF_d70Dwbp_55OdczOLY4OAtVdtapwP_txs" width="350px;" alt="Kyle Dilbeck"/><br /><sub><b>Kyle Dilbeck</b></sub></a><br /><a href=https://github.com/XYIAN/yamaha-extensionPack/issues title="Developer">⚡</a></td>
     <td style="width:75%;">Seasoned software engineer and developer with a demonstrated track record of full-stack development for web and mobile applications, as well as leading and coordinating successful execution of large team projects in both corporate and fast-paced startup environments. I hold a Bachelor of Science degree with a concentration in Software Engineering from California State University, Monterey Bay</td>
 </table>
 
