@@ -1,8 +1,7 @@
 ### About Kyle 🔭 
-
 <table>
   <tr>
-    <td align="center" style="width:25%;"><a href="https://www.linkedin.com/in/kxdilbeck/"><img src="https://xyian.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FPrimary.c616d0a2.png&w=640&q=75" width="350px;" alt="Kyle Dilbeck"/><br /><sub><b>Kyle Dilbeck</b></sub></a><br /><a href=https://github.com/XYIAN/yamaha-extensionPack/issues title="Developer">⚡</a></td>
+    <td align="center" style="width:25%;"><a href="https://www.linkedin.com/in/kxdilbeck/"><img src="https://github.com/XYIANSoftware/images/blob/main/kxd_logos/KXD-Logo2.png?raw=true" width="350px;" alt="Kyle Dilbeck"/><br /><sub><b>Kyle Dilbeck</b></sub></a><br /><a href=https://github.com/XYIAN/yamaha-extensionPack/issues title="Developer">⚡</a></td>
     <td style="width:75%;">Founder of XYIAN Software - Seasoned software engineer and developer with a demonstrated track record of full-stack development for web and mobile applications, as well as leading and coordinating successful execution of large team projects in both corporate and fast-paced startup environments. I hold a Bachelor of Science degree with a concentration in Software Engineering from California State University, Monterey Bay</td>
 </table>
 
