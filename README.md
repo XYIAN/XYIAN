@@ -20,3 +20,10 @@
 Visiting from Stackoverflow? I hope your question is now answered - if you liked the response feel free to connect, follow and upvote! 
 
 Thank you and Happy Coding! :-) 
+<p align="center">
+  <img 
+    src="https://github.com/XYIANSoftware/images/blob/main/kxd_logos/1BD4913A-B251-467D-84FF-0BD06061FC0C%20(1).png?raw=true"
+    alt="Kyle Dilbeck"
+    width="100%" 
+  />
+</p>
