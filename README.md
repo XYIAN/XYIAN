@@ -22,7 +22,7 @@ Visiting from Stackoverflow? I hope your question is now answered - if you liked
 Thank you and Happy Coding! :-) 
 <p align="center">
   <img 
-    src="https://github.com/XYIANSoftware/images/blob/main/kxd_logos/8F2DA8A8-6DCB-42A9-8A98-7C041D809C16.png?raw=true"
+    src="https://github.com/XYIANSoftware/images/blob/main/kxd_logos/wizard%20-%201.png?raw=true"
     alt="Kyle Dilbeck"
     width="100%" 
   />
