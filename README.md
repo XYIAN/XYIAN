@@ -1,7 +1,7 @@
 ### About Kyle The Wizard 🔭 
 <table>
   <tr>
-    <td align="center" style="width:25%;"><a href="https://www.linkedin.com/in/kxdilbeck/"><img src="https://github.com/XYIANSoftware/images/blob/main/kxd_logos/KXD-Logo2.png?raw=true" width="350px;" alt="Kyle Dilbeck"/><br /><sub><b>Kyle Dilbeck</b></sub></a><br /><a href=https://github.com/XYIAN/yamaha-extensionPack/issues title="Developer">⚡</a></td>
+    <td align="center" style="width:25%;"><a href="https://www.linkedin.com/in/kxdilbeck/"><img src="https://github.com/XYIANSoftware/images/blob/main/kxd_logos/8FD59CBC-95CE-4DEE-B58A-D4814CF8F644.png?raw=true" width="350px;" alt="Kyle Dilbeck"/><br /><sub><b>Kyle Dilbeck</b></sub></a><br /><a href=https://github.com/XYIAN/yamaha-extensionPack/issues title="Developer">⚡</a></td>
     <td style="width:75%;">Seasoned software engineer and developer with a demonstrated track record of full-stack development for web and mobile applications, as well as leading and coordinating successful execution of both large and small team projects in corporate and fast-paced startup environments. I hold a Bachelor of Science degree with a concentration in Software Engineering from California State University, Monterey Bay</td>
 </table>
 
@@ -22,7 +22,7 @@ Visiting from Stackoverflow? I hope your question is now answered - if you liked
 Thank you and Happy Coding! :-) 
 <p align="center">
   <img 
-    src="https://github.com/XYIANSoftware/images/blob/main/kxd_logos/1BD4913A-B251-467D-84FF-0BD06061FC0C%20(1).png?raw=true"
+    src="https://github.com/XYIANSoftware/images/blob/main/kxd_logos/8F2DA8A8-6DCB-42A9-8A98-7C041D809C16.png?raw=true"
     alt="Kyle Dilbeck"
     width="100%" 
   />
