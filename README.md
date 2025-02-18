@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td align="center" style="width:25%;"><a href="https://www.linkedin.com/in/kxdilbeck/"><img src="https://github.com/XYIANSoftware/images/blob/main/kxd_logos/8FD59CBC-95CE-4DEE-B58A-D4814CF8F644.png?raw=true" width="350px;" alt="Kyle Dilbeck"/><br /><sub><b>Kyle Dilbeck</b></sub></a><br /><a href=https://github.com/XYIAN/yamaha-extensionPack/issues title="Developer">⚡</a></td>
-    <td style="width:75%;">Seasoned software engineer and developer with a demonstrated track record of full-stack development for web and mobile applications, as well as leading and coordinating successful execution of both large and small team projects in corporate and fast-paced startup environments. I hold a Bachelor of Science degree with a concentration in Software Engineering from California State University, Monterey Bay</td>
+    <td style="width:75%;">Bringing coding magic to scalable web and mobile applications with React, TypeScript, Python and more. Experienced in leading teams, optimizing performance, and delivering solutions in both startup and enterprise environments. With a Software Engineering degree from CSUMB, I focus on writing clean, efficient code and architecting systems built to last. Code is the craft, innovation is the mission, and the goal is always to build something extraordinary.</td>
 </table>
 
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 
 
-Thank you and Happy Coding! :-) 
+
 <p align="center">
   <img 
     src="https://github.com/XYIANSoftware/images/blob/main/kxd_logos/wizard%20-%201.png?raw=true"
