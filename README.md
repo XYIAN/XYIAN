@@ -17,7 +17,6 @@
 
 </p>
 
-Visiting from Stackoverflow? I hope your question is now answered - if you liked the response feel free to connect, follow and upvote! 
 
 Thank you and Happy Coding! :-) 
 <p align="center">
@@ -27,3 +26,7 @@ Thank you and Happy Coding! :-)
     width="100%" 
   />
 </p>
+
+
+  [Request a call or online meeting.](https://kyledilbeck.com/booking)  
+
